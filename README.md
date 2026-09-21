@@ -3,6 +3,7 @@
 ## AIM:
 To implement a full wave centre tapped rectifier with and without filter and to measure and compare the output and peak inverse voltages.
 ## CIRCUIT DIAGRAM:
+<img width="1600" height="1537" alt="image" src="https://github.com/user-attachments/assets/2523ff22-e8cd-4f70-86d3-beedae3a0576" />
 
 ## PROCEDURE:
 1.	Connections are made as shown in the circuit diagram
@@ -15,5 +16,8 @@ To implement a full wave centre tapped rectifier with and without filter and to 
 	
 
 ## OUTPUT:
+<img width="1166" height="1600" alt="image" src="https://github.com/user-attachments/assets/021c7b5c-072c-4b77-83f7-815ad85e2487" />
+<img width="1180" height="1600" alt="image" src="https://github.com/user-attachments/assets/2f787f50-74c5-438d-b2f8-1e0530fd2273" />
 
 ## RESULT:
+<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/3b8220da-7b1f-4429-9bbf-19f7fe779248" />
